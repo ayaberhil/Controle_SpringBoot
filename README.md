@@ -39,6 +39,7 @@ Nous offrons une gestion complète des catégories avec la possibilité d'affich
 ![40](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/b7fd9622-9a8e-4ee7-a4a9-988e7a55d8ce)
 
 
+# FindByCategorie
 
 
 
