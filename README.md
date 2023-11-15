@@ -23,16 +23,20 @@ Nous offrons une gestion complète des catégories avec la possibilité d'affich
 &#9679; Article
 ![36](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/5b52f1d5-c3b4-4ad7-8b6a-18ed7b498a2e)
 &#9679; Categorie
+![41](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/5bd0b49a-9ff3-4ef0-bde6-adf1e965ef7e)
 
 # Post
 &#9679; Article
 ![37](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/e39becf4-2951-4c90-8e36-dbd6697b7382)
 &#9679; Categorie
 
+![42](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/77974d87-73a0-4036-92e7-c22e1bdff722)
+
 # Delete
 &#9679; Article
 ![38](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/6a3571f0-a1fc-4157-8f9f-58b35ea64bcd)
 &#9679; Categorie
+![40](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/b7fd9622-9a8e-4ee7-a4a9-988e7a55d8ce)
 
 
 
