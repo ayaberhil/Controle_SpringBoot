@@ -30,8 +30,6 @@ Nous offrons une gestion complète des catégories avec la possibilité d'affich
 # Delete
 ![38](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/6a3571f0-a1fc-4157-8f9f-58b35ea64bcd)
 
-# FindByCategorie
-
 
 
 
