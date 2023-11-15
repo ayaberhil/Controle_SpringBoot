@@ -15,6 +15,7 @@ Notre objectif est de créer une API RESTful robuste pour la gestion des article
 Nous offrons une gestion complète des catégories avec la possibilité d'afficher les sous-catégories et les articles associés. De plus, notre API permet de filtrer les articles selon une catégorie spécifique et des dates prédéfinies.
 
 # Base de données
+![31](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/98c22858-cbbd-46a6-a1bd-da201c417998)
 
 
 
