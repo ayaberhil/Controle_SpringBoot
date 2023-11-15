@@ -20,16 +20,19 @@ Nous offrons une gestion complète des catégories avec la possibilité d'affich
 
 
 # Get
-
+&#9679; Article
 ![36](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/5b52f1d5-c3b4-4ad7-8b6a-18ed7b498a2e)
+&#9679; Categorie
 
 # Post
+&#9679; Article
 ![37](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/e39becf4-2951-4c90-8e36-dbd6697b7382)
-
+&#9679; Categorie
 
 # Delete
+&#9679; Article
 ![38](https://github.com/ayaberhil/Controle_SpringBoot/assets/147451152/6a3571f0-a1fc-4157-8f9f-58b35ea64bcd)
-
+&#9679; Categorie
 
 
 
